@@ -1,0 +1,33 @@
+{
+    "Version": "2.3",
+    "Message": "➖➖➖➖➖➖➖➖➖➖➖\n§. VIP SERVER CURRENTLY UNAVAILABLE 💖\n➖➖➖➖➖➖➖➖➖➖➖\n\n",
+   "Servers":[{
+   "Name": "VIP ❌",
+   "SSHHost": "ausvip.uchetechs.com",
+   "SSHPort": "22",
+   "DropBear": "555",
+   "SSLPort": "443",
+   "PublicKey": "99df9c6e7b6cbcd94a592de4c9a96f7384f4c7c9d1ffce4390ce65210c64b719",
+   "NameServer": "ausvipdns.uchetechs.com",
+   "Flag": "AU",
+   "ProxyPort": "8085"
+
+    },],  
+    "Tweaks": [{
+   
+   "Name": "EMPTY",
+   "Direct": true,
+   "Websocket": false,
+   "Bug": "",
+   "DNS": false,
+   "DNSAddress": "",
+   "SSL": true,
+   "SSL": false,
+   "Payload": "uchetechs.com",
+   "CustomProxy": false,
+   "ProxyHost": "",
+   "Flag": "NG",
+   "ProxyPort": ""
+
+    }]
+}
